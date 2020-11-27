@@ -160,6 +160,7 @@ public class DeptController extends BaseController{
         }
         return "error/error";
     }
+    //
 //service层新建两个接口findRoleIdByUserId，findByresKey
 //    @RequestMapping(value = "/dept/management",method = {RequestMethod.GET})
 //    public String roleResourceInit(Role role, Model model) {
