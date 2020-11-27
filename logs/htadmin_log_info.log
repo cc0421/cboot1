@@ -1,244 +1,54 @@
-2020-04-21 09:39:35.152 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 09:39:35.230 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 09:39:38.193 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 09:39:38.193 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 09:39:49.849 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 09:39:50.088 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:39:50.091 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:46:03.822 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 09:46:03.925 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:46:03.940 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:46:35.624 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 09:46:35.717 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:46:35.719 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:59:29.727 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 09:59:29.812 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:59:29.813 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:59:45.207 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 09:59:45.319 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 09:59:45.320 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:05.874 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:00:05.938 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:05.951 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:18.491 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:00:18.565 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:18.566 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:26.916 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:26.917 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:29.040 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/update
-2020-04-21 10:00:29.805 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/update
-2020-04-21 10:00:39.085 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/update
-2020-04-21 10:00:39.085 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/update
-2020-04-21 10:00:39.110 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/update
-2020-04-21 10:00:45.163 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:45.164 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:49.004 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:00:49.209 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:00:49.209 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:10:22.040 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:10:22.111 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:10:22.112 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:10:27.169 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:10:27.246 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:10:27.247 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:11:01.405 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:11:01.588 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:11:01.588 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:26:20.145 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:26:20.278 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:26:20.278 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:26:23.512 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /validatePermisson
-2020-04-21 10:26:23.537 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.SystemController - [Ljava.lang.String;@2eb1f50a
-2020-04-21 10:26:24.234 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgcomment/add
-2020-04-21 10:26:24.693 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:26:24.719 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:26:24.734 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:26:24.743 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:26:29.341 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:26:29.437 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:26:29.438 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:26:35.571 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /validatePermisson
-2020-04-21 10:26:35.582 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.SystemController - [Ljava.lang.String;@2dd77894
-2020-04-21 10:26:35.661 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgcomment/add
-2020-04-21 10:26:35.978 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:26:35.979 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:26:36.027 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:26:36.028 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 10:33:44.243 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:33:44.340 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:33:44.341 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:33:48.776 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:33:48.858 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:33:48.871 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:33:55.116 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:33:55.238 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:33:55.239 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:34:58.981 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:34:59.100 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:34:59.100 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:36:56.690 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 10:36:56.691 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 10:36:56.927 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 10:36:56.927 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 10:37:17.561 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:37:18.206 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:37:18.206 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:39:45.378 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:39:45.506 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:39:45.507 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:46:57.241 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:46:57.319 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:46:57.320 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:47:52.088 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:47:52.150 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:47:52.151 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:48:51.939 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:48:52.066 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:48:52.067 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:54:55.078 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:54:55.263 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:54:55.263 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:54:59.043 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:54:59.127 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:54:59.129 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:55:02.659 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:55:02.779 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:55:02.780 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:11.038 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:56:11.185 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:11.186 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:14.139 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:56:14.204 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:14.205 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:17.392 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:56:17.460 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:17.461 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:21.071 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:56:21.118 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:21.118 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:23.733 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:56:23.777 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:23.777 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:26.144 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:56:26.209 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:26.210 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:28.972 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:56:29.046 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:56:29.046 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:57:55.824 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:57:55.905 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:57:55.906 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:57:58.423 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:57:58.476 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:57:58.478 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:01.273 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:01.352 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:01.352 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:03.599 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:03.668 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:03.671 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:06.083 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:06.128 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:06.129 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:08.528 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:08.591 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:08.592 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:10.977 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:11.073 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:11.073 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:14.438 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:14.592 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:14.624 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:20.568 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:20.729 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:20.730 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:24.573 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 10:58:24.671 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 10:58:24.690 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:07:15.761 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:07:17.340 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:07:17.341 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:09:41.169 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 11:09:41.169 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 11:09:41.358 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 11:09:41.358 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 11:09:58.815 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:09:58.983 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:09:58.984 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:10:07.585 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:10:07.649 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:10:07.650 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:10:10.954 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:10:11.031 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:10:11.032 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:20:28.811 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:20:28.900 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:20:28.901 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:20:31.915 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:20:32.024 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:20:32.037 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:23:45.409 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:23:45.468 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:23:45.469 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:23:49.975 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:23:50.060 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:23:50.061 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:24:59.836 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:24:59.837 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:29:08.119 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:29:08.259 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:29:08.260 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:30:09.606 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 11:30:09.681 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:30:09.682 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 11:59:44.339 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 15:14:18.301 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on DESKTOP-QSAOH9M with PID 16100 (D:\workspacests2\cboot\target\classes started by cailun in D:\workspacests2\cboot)
-2020-04-21 15:14:18.328 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
-2020-04-21 15:14:23.231 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$e14f8a7e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:23.338 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$e3e2c923] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:23.355 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$b2990abf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:23.379 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ce36acce] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:25.284 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$73f6e30] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:25.499 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:25.524 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$10afdfe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:26.661 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
-2020-04-21 15:14:26.661 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:26.697 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:26.712 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.373 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.380 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.382 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
-2020-04-21 15:14:27.382 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.394 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.395 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.399 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.400 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy65] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.402 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.406 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.413 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.414 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.415 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.415 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.418 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.440 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:27.546 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:14:28.466 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10086 (http)
-2020-04-21 15:14:28.511 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10086"]
-2020-04-21 15:14:28.881 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2020-04-21 15:14:28.882 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
-2020-04-21 15:14:29.261 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2020-04-21 15:14:29.261 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 10808 ms
-2020-04-21 15:14:30.345 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
-2020-04-21 15:14:30.353 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
-2020-04-21 15:14:30.982 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
-2020-04-21 15:14:30.982 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@42576db9, com.lz.ht.model.SysConfig@30358dc7]
-2020-04-21 15:14:30.982 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
-2020-04-21 15:14:31.368 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
-2020-04-21 15:14:31.374 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
-2020-04-21 15:14:31.397 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
-2020-04-21 15:14:31.397 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
-2020-04-21 15:14:31.398 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
-2020-04-21 15:14:31.399 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+2020-11-27 10:29:17.977 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on LAPTOP-Q6GNFRK0 with PID 16004 (D:\SpringBootLearning-master\cboot\target\classes started by cc in D:\SpringBootLearning-master\cboot)
+2020-11-27 10:29:17.982 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
+2020-11-27 10:29:19.597 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$96cfae0a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:19.656 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$9962ecaf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:19.662 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$68192e4b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:19.673 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$83b6d05a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:20.363 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$bcbf91bc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:20.424 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:20.444 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$b68b218a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:20.891 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-11-27 10:29:20.891 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:20.899 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:20.903 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.143 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.146 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.147 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
+2020-11-27 10:29:21.148 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.161 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.163 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.167 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.168 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy65] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.169 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.174 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.182 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.183 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.184 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.185 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.191 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.202 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.232 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:29:21.537 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-27 10:29:21.567 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 10:29:21.984 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-27 10:29:21.985 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-27 10:29:21.995 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2020-11-27 10:29:21.995 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-11-27 10:29:21.995 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-11-27 10:29:21.999 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2020-11-27 10:29:22.175 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-27 10:29:22.176 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4117 ms
+2020-11-27 10:29:22.614 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
+2020-11-27 10:29:22.620 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
+2020-11-27 10:29:22.823 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 10:29:22.823 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@566e142, com.lz.ht.model.SysConfig@2da81754]
+2020-11-27 10:29:22.824 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 10:29:23.001 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 10:29:23.003 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+2020-11-27 10:29:23.011 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 10:29:23.011 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 10:29:23.012 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 10:29:23.012 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
   NOT STARTED.
   Currently in standby mode.
@@ -246,14 +56,14 @@
   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
 
-2020-04-21 15:14:31.400 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
-2020-04-21 15:14:31.400 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
-2020-04-21 15:14:31.849 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
-2020-04-21 15:14:33.180 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
-2020-04-21 15:14:33.182 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
-2020-04-21 15:14:33.182 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
-2020-04-21 15:14:33.182 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
-2020-04-21 15:14:33.182 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+2020-11-27 10:29:23.012 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-11-27 10:29:23.013 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 10:29:23.226 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 10:29:23.806 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 10:29:23.807 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 10:29:23.808 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 10:29:23.808 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 10:29:23.808 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
   NOT STARTED.
   Currently in standby mode.
@@ -261,70 +71,79 @@
   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
 
-2020-04-21 15:14:33.183 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
-2020-04-21 15:14:33.183 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
-2020-04-21 15:14:33.183 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@1e7cfd49
-2020-04-21 15:14:33.249 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
-2020-04-21 15:14:33.341 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
-2020-04-21 15:14:33.341 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
-2020-04-21 15:14:33.401 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10086"]
-2020-04-21 15:14:33.734 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10086 (http) with context path ''
-2020-04-21 15:14:33.739 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 17.74 seconds (JVM running for 20.741)
-2020-04-21 15:14:44.151 [http-nio-10086-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2020-04-21 15:14:44.151 [http-nio-10086-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2020-04-21 15:14:44.165 [http-nio-10086-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 14 ms
-2020-04-21 15:14:57.309 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:14:57.310 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:14:57.969 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:14:57.971 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:15:05.572 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 15:19:09.475 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on DESKTOP-QSAOH9M with PID 6604 (D:\workspacests2\cboot\target\classes started by cailun in D:\workspacests2\cboot)
-2020-04-21 15:19:09.476 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
-2020-04-21 15:19:12.546 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$29cba826] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:12.750 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$2c5ee6cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:12.782 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$fb152867] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:12.813 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$16b2ca76] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:14.843 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:14.866 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$49871ba6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:14.884 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$4fbb8bd8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:15.525 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
-2020-04-21 15:19:15.525 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:15.547 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:15.558 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.019 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.032 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.034 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.038 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.046 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.048 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy65] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.051 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.061 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
-2020-04-21 15:19:16.062 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.068 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.078 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.080 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.080 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.081 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.084 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.101 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.152 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:19:16.775 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10086 (http)
-2020-04-21 15:19:16.842 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10086"]
-2020-04-21 15:19:17.327 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2020-04-21 15:19:17.327 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
-2020-04-21 15:19:17.641 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2020-04-21 15:19:17.642 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 8085 ms
-2020-04-21 15:19:18.469 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
-2020-04-21 15:19:18.481 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
-2020-04-21 15:19:18.978 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
-2020-04-21 15:19:18.978 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@5a7a6d34, com.lz.ht.model.SysConfig@36871e98]
-2020-04-21 15:19:18.979 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
-2020-04-21 15:19:19.305 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
-2020-04-21 15:19:19.309 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
-2020-04-21 15:19:19.336 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
-2020-04-21 15:19:19.337 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
-2020-04-21 15:19:19.338 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
-2020-04-21 15:19:19.340 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+2020-11-27 10:29:23.808 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2020-11-27 10:29:23.808 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 10:29:23.808 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@28ee882c
+2020-11-27 10:29:23.850 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-11-27 10:29:23.924 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2020-11-27 10:29:23.924 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2020-11-27 10:29:23.961 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 10:29:23.985 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 10:29:23.988 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 6.957 seconds (JVM running for 8.475)
+2020-11-27 10:29:24.924 [RMI TCP Connection(1)-192.168.150.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-27 10:29:24.925 [RMI TCP Connection(1)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-27 10:29:24.947 [RMI TCP Connection(1)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 22 ms
+2020-11-27 10:29:35.236 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:29:35.236 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:29:35.367 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:29:35.370 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:29:38.609 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/list
+2020-11-27 10:29:38.617 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/list
+2020-11-27 10:29:39.948 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:29:39.952 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:29:41.390 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:29:41.396 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:30:54.334 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on LAPTOP-Q6GNFRK0 with PID 6664 (D:\SpringBootLearning-master\cboot\target\classes started by cc in D:\SpringBootLearning-master\cboot)
+2020-11-27 10:30:54.335 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
+2020-11-27 10:30:55.907 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$9571c8d5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:55.958 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$9805077a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:55.964 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$66bb4916] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:55.975 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8258eb25] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:56.713 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$bb61ac87] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:56.782 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:56.797 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$b52d3c55] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.237 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-11-27 10:30:57.238 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.246 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.251 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.466 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.469 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.470 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
+2020-11-27 10:30:57.470 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.481 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.482 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.486 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.487 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy65] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.488 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.491 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.497 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.497 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.498 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.498 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.501 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.507 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.539 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 10:30:57.859 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-27 10:30:57.886 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 10:30:58.257 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-27 10:30:58.257 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-27 10:30:58.266 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2020-11-27 10:30:58.266 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-11-27 10:30:58.266 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-11-27 10:30:58.269 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2020-11-27 10:30:58.451 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-27 10:30:58.451 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4064 ms
+2020-11-27 10:30:58.913 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
+2020-11-27 10:30:58.917 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
+2020-11-27 10:30:59.082 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 10:30:59.083 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@373052b5, com.lz.ht.model.SysConfig@67e0ff3a]
+2020-11-27 10:30:59.083 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 10:30:59.282 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 10:30:59.283 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+2020-11-27 10:30:59.291 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 10:30:59.291 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 10:30:59.292 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 10:30:59.292 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
   NOT STARTED.
   Currently in standby mode.
@@ -332,14 +151,14 @@
   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
 
-2020-04-21 15:19:19.340 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
-2020-04-21 15:19:19.340 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
-2020-04-21 15:19:19.738 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
-2020-04-21 15:19:20.825 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
-2020-04-21 15:19:20.825 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
-2020-04-21 15:19:20.826 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
-2020-04-21 15:19:20.826 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
-2020-04-21 15:19:20.826 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+2020-11-27 10:30:59.292 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-11-27 10:30:59.293 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 10:30:59.487 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 10:31:00.162 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 10:31:00.164 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 10:31:00.164 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 10:31:00.164 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 10:31:00.164 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
   NOT STARTED.
   Currently in standby mode.
@@ -347,89 +166,226 @@
   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
 
-2020-04-21 15:19:20.826 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
-2020-04-21 15:19:20.826 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
-2020-04-21 15:19:20.826 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@4d0b276e
-2020-04-21 15:19:20.898 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
-2020-04-21 15:19:20.992 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
-2020-04-21 15:19:20.993 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
-2020-04-21 15:19:21.046 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10086"]
-2020-04-21 15:19:21.287 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10086 (http) with context path ''
-2020-04-21 15:19:21.292 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 12.886 seconds (JVM running for 13.762)
-2020-04-21 15:19:27.914 [http-nio-10086-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2020-04-21 15:19:27.914 [http-nio-10086-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2020-04-21 15:19:27.934 [http-nio-10086-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 20 ms
-2020-04-21 15:19:33.670 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:19:33.670 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:19:33.830 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:19:33.833 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 15:19:38.088 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 15:19:41.768 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:19:41.769 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:20:14.518 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 15:20:31.482 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:20:31.482 [http-nio-10086-exec-10] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:37:36.303 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 15:37:40.296 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:37:40.296 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:37:50.975 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:37:50.975 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:38:19.205 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 15:38:22.724 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:38:22.724 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:38:29.129 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:38:29.130 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:38:34.067 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:38:34.067 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:38:39.622 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 15:38:39.622 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 15:42:47.836 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on DESKTOP-QSAOH9M with PID 20168 (D:\workspacests2\cboot\target\classes started by cailun in D:\workspacests2\cboot)
-2020-04-21 15:42:47.838 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
-2020-04-21 15:42:50.762 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$d63cbdbd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:50.871 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$d8cffc62] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:50.889 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$a7863dfe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:50.912 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c323e00d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:52.799 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:52.820 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$f5f8313d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:52.836 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$fc2ca16f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.485 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
-2020-04-21 15:42:53.486 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.503 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.513 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.866 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.875 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.876 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.880 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.887 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.889 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy65] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.893 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.900 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
-2020-04-21 15:42:53.901 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.907 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.915 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.917 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.917 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.917 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.921 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.935 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:53.976 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-04-21 15:42:54.904 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10086 (http)
-2020-04-21 15:42:54.951 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10086"]
-2020-04-21 15:42:55.384 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2020-04-21 15:42:55.384 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
-2020-04-21 15:42:56.720 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2020-04-21 15:42:56.721 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 8772 ms
-2020-04-21 15:42:57.738 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
-2020-04-21 15:42:57.749 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
-2020-04-21 15:42:59.048 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
-2020-04-21 15:42:59.048 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@51813065, com.lz.ht.model.SysConfig@4f581211]
-2020-04-21 15:42:59.048 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
-2020-04-21 15:42:59.519 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
-2020-04-21 15:42:59.524 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
-2020-04-21 15:42:59.546 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
-2020-04-21 15:42:59.546 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
-2020-04-21 15:42:59.547 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
-2020-04-21 15:42:59.548 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+2020-11-27 10:31:00.164 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2020-11-27 10:31:00.164 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 10:31:00.164 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@216c22ce
+2020-11-27 10:31:00.206 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-11-27 10:31:00.289 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2020-11-27 10:31:00.289 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2020-11-27 10:31:00.317 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 10:31:00.340 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 10:31:00.342 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 6.802 seconds (JVM running for 8.274)
+2020-11-27 10:31:01.117 [RMI TCP Connection(2)-192.168.150.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-27 10:31:01.117 [RMI TCP Connection(2)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-27 10:31:01.133 [RMI TCP Connection(2)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 15 ms
+2020-11-27 10:31:06.542 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:31:06.542 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:31:06.695 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:31:06.701 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:31:10.052 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 10:31:41.350 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:31:41.358 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:31:52.168 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:31:52.172 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:32:13.251 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /user/giveRole
+2020-11-27 10:32:57.832 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:32:57.833 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:33:03.561 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:33:03.562 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:33:31.677 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 10:34:29.152 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:34:29.158 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:34:31.485 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:34:31.486 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:34:33.295 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:35:56.551 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:35:56.552 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:37:06.532 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 10:38:09.845 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:38:09.845 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 10:38:19.171 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 10:38:26.937 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 10:39:14.913 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /user/add
+2020-11-27 10:41:27.736 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:41:27.736 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:41:27.770 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:41:27.770 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:41:32.153 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:41:32.153 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:42:21.458 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /user/add
+2020-11-27 10:42:44.761 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /user/add
+2020-11-27 10:44:44.663 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 10:44:51.571 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 10:46:07.155 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:46:07.155 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:46:48.034 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:46:48.034 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:46:51.054 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:09.660 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:09.661 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:09.661 [http-nio-8080-exec-3] INFO  com.lz.ht.controller.RoleController - 1##1001##1001001##1001002##1001003##1003##1003001##1003002##1003003##1004##1004001##1004002##1004003##1004004##1006##1006001##1006002##1006003##1006004##3##1009##1009001##1011##1012##1013##2##1008##1008001##1008002##4##4001##4001001##4001002##4001003##4002##5##5001##5001001##5001002##44
+2020-11-27 10:47:09.661 [http-nio-8080-exec-3] INFO  com.lz.ht.controller.RoleController - 1
+2020-11-27 10:47:13.558 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:13.558 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:13.582 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:13.582 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:25.162 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:47:25.162 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:47:26.850 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:47:26.850 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:47:28.985 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:33.689 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:33.689 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:33.689 [http-nio-8080-exec-1] INFO  com.lz.ht.controller.RoleController - 1##1007##1007001##1007002##1007003##1007004##1001##1001001##1001002##1001003##1003##1003001##1003002##1003003##1004##1004001##1004002##1004003##1004004##1006##1006001##1006002##1006003##1006004##3##1009##1009001##1011##1012##1013##2##1008##1008001##1008002##4##4001##4001001##4001002##4001003##4002##5##5001##5001001##5001002##44
+2020-11-27 10:47:33.690 [http-nio-8080-exec-1] INFO  com.lz.ht.controller.RoleController - 1
+2020-11-27 10:47:36.478 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:39.144 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:39.144 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:47:39.145 [http-nio-8080-exec-3] INFO  com.lz.ht.controller.RoleController - 1##1007##1007002##1007003##1007004##1001##1001001##1001002##1001003##1003##1003001##1003002##1003003##1004##1004001##1004002##1004003##1004004##1006##1006001##1006002##1006003##1006004##3##1009##1009001##1011##1012##1013##2##1008##1008001##1008002##4##4001##4001001##4001002##4001003##4002##5##5001##5001001##5001002##44
+2020-11-27 10:47:39.145 [http-nio-8080-exec-3] INFO  com.lz.ht.controller.RoleController - 1
+2020-11-27 10:47:42.660 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:42.660 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:42.684 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:42.684 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:47:44.741 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:47:44.742 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:48:02.289 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:48:02.290 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:48:03.690 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:48:03.690 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:48:05.504 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:48:08.129 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:48:08.129 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:48:08.129 [http-nio-8080-exec-3] INFO  com.lz.ht.controller.RoleController - 1##1007##1007001##1007002##1007003##1007004##1001##1001001##1001002##1001003##1003##1003001##1003002##1003003##1004##1004001##1004002##1004003##1004004##1006##1006001##1006002##1006003##1006004##3##1009##1009001##1011##1012##1013##2##1008##1008001##1008002##4##4001##4001001##4001002##4001003##4002##5##5001##5001001##5001002##44
+2020-11-27 10:48:08.129 [http-nio-8080-exec-3] INFO  com.lz.ht.controller.RoleController - 1
+2020-11-27 10:48:11.141 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:48:11.142 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:48:11.169 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:48:11.169 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:48:12.888 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:48:12.889 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /user/list
+2020-11-27 10:48:17.905 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /user/add
+2020-11-27 10:48:52.511 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 10:49:06.812 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 10:49:10.255 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:49:35.034 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 10:49:48.757 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:50:31.469 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:50:31.472 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:51:13.061 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:51:13.069 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:51:29.262 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:51:29.262 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:51:29.285 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:51:29.285 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:51:33.135 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 10:51:37.623 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:52:18.889 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:52:18.890 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:53:01.084 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:53:01.087 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 10:53:07.813 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:53:07.813 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:53:07.841 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:53:07.841 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:53:10.287 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 10:53:12.854 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:53:12.854 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:53:13.930 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:53:13.930 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:53:16.203 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:53:21.545 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:53:21.546 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:53:21.546 [http-nio-8080-exec-4] INFO  com.lz.ht.controller.RoleController - 1##1007##1007001##1007002##1007003##1007004##1001##1001001##1001002##1001003##1003##1003001##1003002##1003003##1004##1004001##1004002##1004003##1004004##1006##1006001##1006002##1006003##1006004##3##1009##1009001##1011##1012##1013##2##1008##1008001##1008002##4##4001##4001001##4001002##4001003##4002##5##5001##5001001##5001002##44##4401##4402##4403##4404
+2020-11-27 10:53:21.546 [http-nio-8080-exec-4] INFO  com.lz.ht.controller.RoleController - 1
+2020-11-27 10:53:25.879 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:53:25.880 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:53:25.900 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:53:25.900 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 10:54:59.858 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:54:59.859 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:55:01.274 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:55:01.275 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:55:04.055 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 10:59:32.651 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:59:32.652 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 10:59:35.221 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 10:59:40.602 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 10:59:50.175 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 10:59:50.179 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:00.570 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:00:04.683 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:00:12.017 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:00:15.714 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:00:20.281 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:00:22.606 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:22.611 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:27.268 [http-nio-8080-exec-2] INFO  com.lz.ht.base.BaseController - /resources/updatein
+2020-11-27 11:00:27.271 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:27.282 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:29.491 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 11:00:32.995 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:00:35.846 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:35.850 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:42.835 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /resources/updatein
+2020-11-27 11:00:42.840 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:42.844 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/update
+2020-11-27 11:00:45.055 [http-nio-8080-exec-6] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 11:00:48.324 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:00:59.146 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:02:42.744 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 11:02:42.745 [http-nio-8080-exec-3] INFO  com.lz.ht.base.BaseController - /dept/list
+2020-11-27 11:26:17.693 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on LAPTOP-Q6GNFRK0 with PID 1516 (D:\SpringBootLearning-master\cboot\target\classes started by cc in D:\SpringBootLearning-master\cboot)
+2020-11-27 11:26:17.741 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
+2020-11-27 11:26:18.991 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$8c14f146] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:19.036 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$8ea82feb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:19.042 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$5d5e7187] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:19.051 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$78fc1396] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:19.586 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$b204d4f8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:19.631 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:19.640 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$abd064c6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.041 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-11-27 11:26:20.041 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.052 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.057 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.353 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.357 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.358 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
+2020-11-27 11:26:20.358 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.369 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.370 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.371 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.374 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.375 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy67] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.375 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.378 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.379 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.381 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.381 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.383 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.389 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.406 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 11:26:20.646 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-27 11:26:20.682 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:26:20.999 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-27 11:26:21.000 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-27 11:26:21.008 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2020-11-27 11:26:21.008 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-11-27 11:26:21.009 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-11-27 11:26:21.012 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2020-11-27 11:26:21.174 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-27 11:26:21.174 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3379 ms
+2020-11-27 11:26:21.508 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
+2020-11-27 11:26:21.512 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
+2020-11-27 11:26:21.663 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 11:26:21.663 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@3fde8f7c, com.lz.ht.model.SysConfig@11d86b9d]
+2020-11-27 11:26:21.666 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 11:26:21.814 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 11:26:21.816 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+2020-11-27 11:26:21.824 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 11:26:21.824 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 11:26:21.825 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 11:26:21.825 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
   NOT STARTED.
   Currently in standby mode.
@@ -437,14 +393,14 @@
   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
 
-2020-04-21 15:42:59.548 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
-2020-04-21 15:42:59.548 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
-2020-04-21 15:42:59.920 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
-2020-04-21 15:43:01.486 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
-2020-04-21 15:43:01.487 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
-2020-04-21 15:43:01.487 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
-2020-04-21 15:43:01.487 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
-2020-04-21 15:43:01.487 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+2020-11-27 11:26:21.825 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-11-27 11:26:21.825 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 11:26:22.005 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 11:26:22.472 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 11:26:22.473 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 11:26:22.473 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 11:26:22.473 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 11:26:22.473 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
   NOT STARTED.
   Currently in standby mode.
@@ -452,227 +408,213 @@
   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
 
-2020-04-21 15:43:01.488 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
-2020-04-21 15:43:01.488 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
-2020-04-21 15:43:01.488 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@669580e2
-2020-04-21 15:43:01.637 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
-2020-04-21 15:43:02.406 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
-2020-04-21 15:43:02.407 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
-2020-04-21 15:43:02.452 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10086"]
-2020-04-21 15:43:02.663 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10086 (http) with context path ''
-2020-04-21 15:43:02.666 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 15.959 seconds (JVM running for 16.952)
-2020-04-21 16:00:43.982 [http-nio-10086-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2020-04-21 16:00:43.982 [http-nio-10086-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2020-04-21 16:00:43.995 [http-nio-10086-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
-2020-04-21 16:00:52.934 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 16:00:52.934 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 16:00:53.389 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 16:00:53.392 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 16:00:59.047 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:01:03.880 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:01:03.880 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:01:10.828 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:01:10.829 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:02:19.836 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:02:23.287 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:02:23.287 [http-nio-10086-exec-6] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:02:32.088 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:02:32.088 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:02:57.957 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:02:57.957 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:03:09.907 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:03:09.909 [http-nio-10086-exec-10] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:04:15.211 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:04:18.726 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:04:18.726 [http-nio-10086-exec-6] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:05:03.886 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:05:07.592 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:05:07.593 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:05:44.382 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:05:48.039 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:05:48.040 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:07:42.816 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:07:46.157 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:07:46.158 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:07:52.506 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:07:52.508 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:08:19.134 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:08:19.134 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:10:20.519 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:10:28.620 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:10:32.132 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:10:32.134 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:10:37.788 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:10:37.788 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:10:41.119 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:10:41.119 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:10:44.471 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:10:44.474 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:10:48.134 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:10:48.135 [http-nio-10086-exec-4] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:10:52.569 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:10:52.569 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:11:57.492 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:12:01.359 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:12:01.359 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:13:31.983 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:13:35.966 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:13:35.966 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:14:48.079 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:14:53.402 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:14:53.402 [http-nio-10086-exec-4] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:15:21.743 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:15:25.623 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:15:25.623 [http-nio-10086-exec-9] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:15:30.432 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:15:30.433 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:15:38.871 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:15:38.872 [http-nio-10086-exec-6] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:16:14.330 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:16:14.330 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:16:17.801 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:16:17.801 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 16:16:39.527 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 16:16:44.159 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 16:16:44.160 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:29:47.955 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:29:47.956 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:29:48.332 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:29:48.333 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:29:52.098 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:29:55.660 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:29:55.661 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:29:59.133 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:29:59.133 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:30:02.795 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:30:02.795 [http-nio-10086-exec-9] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:30:06.701 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:30:06.701 [http-nio-10086-exec-10] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:30:11.147 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:30:11.147 [http-nio-10086-exec-6] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:30:28.743 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:30:28.743 [http-nio-10086-exec-4] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:31:16.248 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:31:19.687 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:31:19.687 [http-nio-10086-exec-4] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:31:22.840 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:31:22.840 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:33:06.140 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:33:09.405 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:33:09.405 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:33:13.436 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:33:13.436 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:38:59.799 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:39:02.916 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:39:02.916 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:39:06.236 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:39:06.236 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:39:42.099 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:39:45.892 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:39:45.892 [http-nio-10086-exec-4] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:39:49.697 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:39:49.697 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:39:53.554 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:39:53.554 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:40:08.195 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:40:13.118 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:40:13.118 [http-nio-10086-exec-4] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:40:17.040 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:40:17.041 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:40:21.243 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:40:21.243 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:40:25.754 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:40:25.754 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:40:30.652 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:40:30.653 [http-nio-10086-exec-9] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:44:34.166 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:44:42.582 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:44:42.582 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:44:45.754 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:44:45.755 [http-nio-10086-exec-10] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:44:48.756 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:44:48.756 [http-nio-10086-exec-9] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:44:52.367 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:44:52.367 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:44:56.649 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:44:56.649 [http-nio-10086-exec-4] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:45:03.406 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:45:03.406 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:45:15.043 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:45:15.043 [http-nio-10086-exec-10] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:45:21.470 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:45:21.471 [http-nio-10086-exec-9] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:46:31.035 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:46:34.563 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:46:34.563 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:47:15.136 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:47:22.227 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:47:22.227 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpeg
-2020-04-21 17:47:27.750 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:47:27.751 [http-nio-10086-exec-8] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:47:31.185 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:47:31.186 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:47:33.968 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:47:33.968 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:47:37.659 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:47:37.659 [http-nio-10086-exec-10] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:47:44.423 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:47:44.423 [http-nio-10086-exec-7] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:51:58.097 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:51:58.271 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:51:58.387 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:55:58.890 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:55:58.977 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:55:58.978 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:56:15.577 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:56:15.578 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:56:38.182 [http-nio-10086-exec-8] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:56:38.259 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:56:38.259 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:57:01.554 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:57:01.555 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:57:23.325 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:58:04.498 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:58:04.498 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:58:04.535 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:58:04.535 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 17:58:07.146 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:58:07.147 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:58:10.843 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:58:10.914 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:58:10.914 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:58:16.530 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:58:22.211 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 17:58:22.211 [http-nio-10086-exec-1] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 17:58:26.792 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 17:58:26.868 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 17:58:26.868 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 20:07:53.999 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 20:07:54.000 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 20:07:54.049 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 20:07:54.049 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /login
-2020-04-21 20:08:07.219 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 20:08:10.745 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 20:08:10.745 [http-nio-10086-exec-2] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 20:08:13.728 [http-nio-10086-exec-3] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 20:08:13.728 [http-nio-10086-exec-3] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 20:08:17.767 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 20:08:17.767 [http-nio-10086-exec-6] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 20:08:21.741 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /orgnews/uploadPic
-2020-04-21 20:08:21.742 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.OrgnewsController - imageType .jpg
-2020-04-21 20:09:08.985 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 20:09:09.091 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 20:09:09.092 [http-nio-10086-exec-4] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 20:09:13.040 [http-nio-10086-exec-7] INFO  com.lz.ht.base.BaseController - /orgnews/editOrgnewsInit
-2020-04-21 20:09:13.121 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 20:09:13.122 [http-nio-10086-exec-6] INFO  com.lz.ht.base.BaseController - /orgnews/list
-2020-04-21 20:09:16.060 [http-nio-10086-exec-5] INFO  com.lz.ht.base.BaseController - /validatePermisson
-2020-04-21 20:09:16.063 [http-nio-10086-exec-5] INFO  com.lz.ht.controller.SystemController - [Ljava.lang.String;@6fef805f
-2020-04-21 20:09:16.251 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgcomment/add
-2020-04-21 20:09:16.301 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 20:09:16.307 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 20:09:16.323 [http-nio-10086-exec-2] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 20:09:16.326 [http-nio-10086-exec-1] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 20:09:29.747 [http-nio-10086-exec-9] INFO  com.lz.ht.base.BaseController - /orgcomment/add
-2020-04-21 20:09:30.069 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgcomment/list
-2020-04-21 20:09:30.069 [http-nio-10086-exec-10] INFO  com.lz.ht.base.BaseController - /orgcomment/list
+2020-11-27 11:26:22.474 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2020-11-27 11:26:22.474 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 11:26:22.474 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@175c5c3a
+2020-11-27 11:26:22.504 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-11-27 11:26:22.580 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2020-11-27 11:26:22.580 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2020-11-27 11:26:22.606 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 11:26:22.633 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 11:26:22.635 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 5.523 seconds (JVM running for 6.636)
+2020-11-27 11:26:23.222 [RMI TCP Connection(1)-192.168.150.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-27 11:26:23.222 [RMI TCP Connection(1)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-27 11:26:23.233 [RMI TCP Connection(1)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2020-11-27 11:26:30.076 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:26:30.077 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:26:30.173 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:26:30.175 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:26:50.657 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 11:26:54.115 [http-nio-8080-exec-9] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:27:02.093 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:27:29.033 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:27:29.033 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:27:29.062 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:27:29.062 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 11:29:41.079 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /resources/management
+2020-11-27 11:29:43.931 [http-nio-8080-exec-4] INFO  com.lz.ht.base.BaseController - /resources/managelist
+2020-11-27 11:29:54.571 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 11:29:54.577 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 11:29:56.655 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 11:29:56.655 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /role/list
+2020-11-27 11:29:58.572 [http-nio-8080-exec-10] INFO  com.lz.ht.base.BaseController - /role/roleResource
+2020-11-27 11:30:20.764 [http-nio-8080-exec-7] INFO  com.lz.ht.base.BaseController - /resources/add
+2020-11-27 12:48:40.664 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on LAPTOP-Q6GNFRK0 with PID 13948 (D:\SpringBootLearning-master\cboot\target\classes started by cc in D:\SpringBootLearning-master\cboot)
+2020-11-27 12:48:40.665 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
+2020-11-27 12:48:42.228 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$2b993cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:42.287 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$2e2c7b96] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:42.294 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$fce2bd32] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:42.305 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$18805f41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:43.092 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$518920a3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:43.171 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:43.190 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$4b54b071] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:43.825 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-11-27 12:48:43.825 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:43.835 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:43.841 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.198 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.204 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.206 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
+2020-11-27 12:48:44.206 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.221 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.223 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.225 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.233 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.234 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy67] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.235 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.244 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.245 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.248 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.248 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.254 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.266 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.300 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:48:44.658 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-27 12:48:44.696 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 12:48:45.229 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-27 12:48:45.229 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-27 12:48:45.244 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2020-11-27 12:48:45.244 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-11-27 12:48:45.244 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-11-27 12:48:45.249 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2020-11-27 12:48:45.499 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-27 12:48:45.499 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4773 ms
+2020-11-27 12:48:46.008 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
+2020-11-27 12:48:46.013 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
+2020-11-27 12:48:46.295 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 12:48:46.295 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@7f4596d0, com.lz.ht.model.SysConfig@6002e944]
+2020-11-27 12:48:46.295 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 12:48:46.556 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 12:48:46.558 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+2020-11-27 12:48:46.568 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 12:48:46.569 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 12:48:46.570 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 12:48:46.570 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-11-27 12:48:46.570 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-11-27 12:48:46.570 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 12:48:46.924 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 12:48:47.700 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 12:48:47.702 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 12:48:47.703 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 12:48:47.703 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 12:48:47.703 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-11-27 12:48:47.703 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2020-11-27 12:48:47.703 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 12:48:47.703 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@4cc12db2
+2020-11-27 12:48:47.760 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-11-27 12:48:47.843 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2020-11-27 12:48:47.843 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2020-11-27 12:48:47.885 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 12:48:47.920 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 12:48:47.924 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 8.02 seconds (JVM running for 9.772)
+2020-11-27 12:48:49.646 [RMI TCP Connection(4)-192.168.150.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-27 12:48:49.647 [RMI TCP Connection(4)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-27 12:48:49.663 [RMI TCP Connection(4)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 16 ms
+2020-11-27 12:49:33.615 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 12:49:33.616 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 12:49:33.888 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 12:49:33.902 [http-nio-8080-exec-5] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 12:54:25.555 [main] INFO  com.lz.ht.CbootApplication - Starting CbootApplication on LAPTOP-Q6GNFRK0 with PID 16160 (D:\SpringBootLearning-master\cboot\target\classes started by cc in D:\SpringBootLearning-master\cboot)
+2020-11-27 12:54:25.557 [main] INFO  com.lz.ht.CbootApplication - The following profiles are active: local
+2020-11-27 12:54:27.264 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$115408ec] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:27.333 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$13e74791] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:27.342 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.lz.ht.configuration.ShiroConfig$$EnhancerBySpringCGLIB$$e29d892d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:27.357 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fe3b2b3c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:28.410 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.lz.ht.configuration.DruidConfig$$EnhancerBySpringCGLIB$$3743ec9e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:28.490 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:28.508 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$310f7c6c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.122 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-11-27 12:54:29.122 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.132 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.138 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.426 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.430 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.431 [main] INFO  com.lz.ht.configuration.DruidConfig - -------------SqlMapper ------------
+2020-11-27 12:54:29.432 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlMapper' of type [com.github.abel533.sql.SqlMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.444 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.446 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleMapper' of type [com.sun.proxy.$Proxy64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.448 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRoleServiceImpl' of type [com.lz.ht.service.serviceImpl.UserRoleServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.454 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.455 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesMapper' of type [com.sun.proxy.$Proxy67] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.455 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'roleResourcesServiceImpl' of type [com.lz.ht.service.serviceImpl.RoleResourcesServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.462 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.463 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userMapper' of type [com.sun.proxy.$Proxy68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.465 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userServiceImpl' of type [com.lz.ht.service.serviceImpl.UserServiceImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.465 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'customRealm' of type [com.lz.ht.realm.CustomRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.469 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.477 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.500 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-27 12:54:29.834 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-27 12:54:29.870 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 12:54:30.371 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-27 12:54:30.372 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-27 12:54:30.382 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2020-11-27 12:54:30.382 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-11-27 12:54:30.383 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-11-27 12:54:30.387 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2020-11-27 12:54:30.637 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-27 12:54:30.637 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5019 ms
+2020-11-27 12:54:31.146 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
+2020-11-27 12:54:31.154 [main] INFO  o.s.boot.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
+2020-11-27 12:54:31.391 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 12:54:31.391 [main] INFO  com.lz.ht.constant.SysConstant - [com.lz.ht.model.SysConfig@28279a49, com.lz.ht.model.SysConfig@384fda47]
+2020-11-27 12:54:31.396 [main] INFO  com.lz.ht.constant.SysConstant - ***********SYSTEM_CONFIGS***********
+2020-11-27 12:54:31.614 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 12:54:31.615 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+2020-11-27 12:54:31.625 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 12:54:31.626 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 12:54:31.626 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 12:54:31.627 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-11-27 12:54:31.627 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-11-27 12:54:31.627 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 12:54:31.880 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 12:54:32.662 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2020-11-27 12:54:32.663 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-11-27 12:54:32.663 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.1 created.
+2020-11-27 12:54:32.663 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2020-11-27 12:54:32.664 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.1) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-11-27 12:54:32.664 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2020-11-27 12:54:32.664 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.1
+2020-11-27 12:54:32.664 [main] INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@78d73b1b
+2020-11-27 12:54:32.713 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-11-27 12:54:32.789 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2020-11-27 12:54:32.790 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2020-11-27 12:54:32.826 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 12:54:32.859 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 12:54:32.862 [main] INFO  com.lz.ht.CbootApplication - Started CbootApplication in 8.118 seconds (JVM running for 10.525)
+2020-11-27 12:54:33.757 [RMI TCP Connection(3)-192.168.150.1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-27 12:54:33.758 [RMI TCP Connection(3)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-27 12:54:33.778 [RMI TCP Connection(3)-192.168.150.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 20 ms
+2020-11-27 12:54:40.486 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 12:54:40.487 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 12:54:40.793 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 12:54:40.802 [http-nio-8080-exec-1] INFO  com.lz.ht.base.BaseController - /login
+2020-11-27 13:05:58.731 [http-nio-8080-exec-8] INFO  com.lz.ht.base.BaseController - /resources/management

@@ -1,5 +1,9 @@
 package com.lz.ht.controller;
 
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
+import com.lz.ht.model.Resources;
+import com.lz.ht.model.Role;
 import com.lz.ht.result.Result;
 import com.lz.ht.model.Dept;
 import com.lz.ht.model.User;
@@ -9,10 +13,13 @@ import com.lz.ht.service.DeptService;
 import com.lz.ht.service.UserService;
 import com.lz.ht.util.JwtUtil;
 import com.lz.ht.base.BaseController;
+
+import java.util.HashMap;
 import java.util.List;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.UsernamePasswordToken;
+import org.apache.shiro.session.Session;
 import org.apache.shiro.subject.Subject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -42,14 +49,28 @@ public class DeptController extends BaseController{
 
 
 
+//    @RequestMapping(value = "/dept/list",method = {RequestMethod.POST})
+//    @ResponseBody
+//    public PageModel list(Dept dept, PageModel<Dept> page)throws Exception{
+//           page.init();
+//           List<Dept> list = deptServiceImpl.findPageList(page,dept);
+//           long count = deptServiceImpl.findCount(dept);
+//           page.packData(count,list);
+//           return page;
+//    }
     @RequestMapping(value = "/dept/list",method = {RequestMethod.POST})
     @ResponseBody
-    public PageModel list(Dept dept, PageModel<Dept> page)throws Exception{
-           page.init();
-           List<Dept> list = deptServiceImpl.findPageList(page,dept);
-           long count = deptServiceImpl.findCount(dept);
-           page.packData(count,list);
-           return page;
+    public PageModel list(Dept dept , PageModel<Dept> pageModel)throws Exception{
+        pageModel.init();//分析返回的数据：pageSize  currentage
+        //调用pageHelper
+        PageHelper.startPage((int)pageModel.getCurrentPageNum(),(int)pageModel.getPageSize());
+        //业务数据
+        PageInfo<Dept> pageInfo =
+                new PageInfo<Dept>(this.deptServiceImpl.findList(dept));
+
+        //组装数据返回到客户端，使用的为springboot默认的Json包 spring-boot-starter-json 依赖：
+        pageModel.packData(pageInfo.getTotal(),pageInfo.getList());
+        return pageModel;
     }
 
     @RequestMapping(value = "/dept/add",method = {RequestMethod.GET})
@@ -139,7 +160,48 @@ public class DeptController extends BaseController{
         }
         return "error/error";
     }
-
+//service层新建两个接口findRoleIdByUserId，findByresKey
+//    @RequestMapping(value = "/dept/management",method = {RequestMethod.GET})
+//    public String roleResourceInit(Role role, Model model) {
+//        Subject subject = SecurityUtils.getSubject();
+//        Session session = subject.getSession();
+//        Long userId = (Long) session.getAttribute("loginUserId");
+//
+//        Long roleId = deptServiceImpl.findRoleIdByUserId(userId);
+//        //String rolekey = (String) session.getAttribute("loginUserId");
+//
+//        role = roleServiceImpl.findById(roleId);
+//        //根据role 查找roleResource表中，本角色管理的资源
+//        //SELECT  t.id AS id, t.deptName AS `name`, t.parentId pId , 'true' AS `open` FROM t_dept t
+//        String roleKey = role.getRoleKey();
+//        //1.查询所有的资源列表
+//        //2.查询角色对应的资源
+//        //3.遍历所有资源列表，如果角色对应的资源列表中有，就给他标识为选中状态
+//        String sql = "    SELECT  res.resKey AS id, " +
+//                "    res.name AS name, " +
+//                "    res.presKey AS pId, " +
+//                "    'true' AS open,     " +
+//                "    CASE WHEN   res.resKey IN ( SELECT r.resKey FROM t_role_resources r WHERE r.roleKey = "+
+//                "  #{roleKey} )  THEN 'true' ELSE 'false' END AS checked  " +
+//                " FROM  t_resources res ";
+//
+//        List<Map> selectList = sqlMapper.selectList(sql,  roleKey, Map.class);
+//
+//        model.addAttribute("treeNodes",toJson(selectList));
+//        model.addAttribute("roleKey",roleKey);
+//        return "resources/resources_management";
+//    }
+//
+//    @RequestMapping(value = "/resources/managelist",method = {RequestMethod.GET})
+//    @ResponseBody
+//    public Map<String ,Object> manageList(int resKey){
+//        Map<String, Object> modelMap = new HashMap<String, Object>();
+//        Resources resources = resourcesServiceImpl.findByresKey((long) resKey);
+//        System.out.println(resources);
+//        //model.addAttribute("resources",resources);
+//        modelMap.put("data", resources);
+//        return modelMap;
+//    }
 
 
 
